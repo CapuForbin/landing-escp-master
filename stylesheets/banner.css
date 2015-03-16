@@ -1,16 +1,33 @@
 #banner {
-  background-image: url(../images/background.jpg);
-  color: white;
+  background-image: url(../images/background8.jpg);
+  color: #434C6A;
   padding: 150px 50px;
   background-size: cover;
+  background-position: center;
+  height: 90%;
 }
 
 #banner h1 {
   font-size: 50px;
-  color: white;
+  color: #21273F
 }
 
 #banner p {
   font-size: 25px;
   font-weight: 100;
 }
+
+#banner h3 {
+  font-size: 50px;
+  color: #21273F
+}
+
+h2 {
+   text-align: center;
+}
+
+#names {
+  background-color: #fff;
+  border-radius: 2px;
+  padding: 50px 0;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.2);

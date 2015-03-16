@@ -3,7 +3,7 @@
 
 body {
   font-family: 'Open Sans', sans-serif;
-  color: #141414;
+  color: #F0F1F5;
 }
 .card{
   padding: 10px;
@@ -17,6 +17,28 @@ body {
   padding-bottom: 8em;
 }
 .blue-bg {
-  background: #469AE0;
-  color: white;
+  background: #F0F1F5;
+  color: #21273F
+}
+
+.concept {
+  background: #F0F1F5;
+  color: #FAB216
+}
+
+.marine-bg {
+  background: #95A5D4
+  color: #6586E9;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.img-circle {
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+}
+
+.shadowed {
+  box-shadow: 5px 5px 3px black;
 }
